@@ -1,0 +1,11 @@
+name: TimedTnt
+version: '1.0'
+main: orangeyum.yumgame.timedtnt.Main
+api-version: 1.18
+commands:
+  starttnt:
+    description: aaaaaaaaaaaaaaaaaaaaaaaaa
+    permission: op
+  stoptnt:
+    description: aaaaaaaaaaaaaaaaaaaaaaaaa
+    permission: op
